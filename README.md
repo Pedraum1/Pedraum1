@@ -1,8 +1,8 @@
-<h1 align="left">Hello World! I'm Pedro, but you can call me "Big P"</h1>
+<h1 align="left">Hello World! Meu nome é Pedro, mas pode me chamar de Pedrão</h1>
 
 ###
 
-<p align="left">Hi there! I'm a Fullstack web developer and enthusiast of PHP frameworks like Laravel and Codeigniter, also I study a lot about robotics and IoT. Particularly, I think best way for becaming good at something is to go deep inside it and don't care about if it is popular or not, just be good, patient and soon it wil pay your work and dedication.</p>
+<p align="left">Atualmente sou desenvolvedor de Sistemas Embarcados, dedicado à integração de microcontroladores com o mundo real e desenvolvendo soluções na área de Hardware e Software.</p>
 
 ###
 
@@ -10,29 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2004<br>📚 Mechatronics Engineering<br>🎯 Goals: Been able to make my ideias into something concrete<br>🎲 Fun fact: I train Karate since 7 years old</p>
+<p align="left">✨ Criando bugs desde 2004<br>📚 Engenharia Mecatrônica<br>🎯 Metas: Terminar meu TCC e derrotar Sistemas de Controle<br>🎲 Fun fact: Treino Karate desde os 7 anos de idade</p>
 
 ###
 
 <h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-</div>
 
 ###
 
@@ -52,11 +34,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Pedraum1/Pedraum1/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedraum1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
